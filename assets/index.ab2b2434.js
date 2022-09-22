@@ -1,0 +1,1 @@
+import{d as n,a as t,o as a,c as r,b as c}from"./index.30765356.js";const d=n({__name:"index",setup(i){const o=e=>{console.log(e)};return(e,p)=>{const s=t("w-progress");return a(),r("div",null,[c(s,{onFinishLoad:o,isAnimation:"","text-inside":!0,"stroke-width":24,percentage:100,status:"success"})])}}});export{d as default};

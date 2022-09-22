@@ -1,0 +1,1 @@
+import{d as a,a as t,o as c,c as s,b as r}from"./index.30765356.js";const d=a({__name:"index",setup(_){const o=e=>{console.log(e)};return(e,l)=>{const n=t("w-cascader-street");return c(),s("div",null,[r(n,{onChange:o})])}}});export{d as default};

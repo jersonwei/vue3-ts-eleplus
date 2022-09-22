@@ -1,0 +1,1 @@
+import{d as c,a as l,o as r,c as _,b as m}from"./index.30765356.js";const d=c({__name:"index",setup(p){const n=e=>{console.log(e)},t=({startTime:e,endTime:o})=>{console.log(e,o)},s={size:"small",clearable:!1};return(e,o)=>{const a=l("w-choose-time");return r(),_("div",null,[m(a,{onStartChange:n,onEndChange:t,startOptions:s})])}}});export{d as default};
